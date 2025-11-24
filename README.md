@@ -1,6 +1,3 @@
-# leetcode-solution
-My LeetCode solutions in Python &amp; SQL for data analytics &amp; coding practice
-
 # LeetCode Solutions
 
 This repository contains my **LeetCode solutions** in **Python** and **SQL**.  
