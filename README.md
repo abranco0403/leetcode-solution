@@ -30,7 +30,7 @@ Each folder contains:
 
 ### SQL
 - [001 Top Customers](SQL/001_top_customers.sql) — [LeetCode](https://leetcode.com/problems/top-customers/)  
-- [002 Sales Analysis](SQL/002_sales_analysis.sql) — [LeetCode](https://leetcode.com/problems/sales-analysis/)
+- [185 Department Top Three Salaries](SQL/185_department_top_three_salaries.sql) — [LeetCode](https://leetcode.com/problems/department-top-three-salaries/)
 
 ---
 
